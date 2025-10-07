@@ -58,3 +58,13 @@ php artisan migrate --seed
 
 # 8️⃣ Start local development server
 php artisan serve
+
+
+--------------------------------------------------------
+
+🧑‍💻 Developer
+
+Mohamad Alsasa
+Back-End Developer
+📧 [Mohamadalsasa991@gmail.com](mailto:Mohamadalsasa991@gmail.com)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/mohamad-sasa-22011b250/)
