@@ -58,9 +58,7 @@ php artisan migrate --seed
 
 # 8️⃣ Start local development server
 php artisan serve
-
-
---------------------------------------------------------
+```
 
 🧑‍💻 Developer
 
